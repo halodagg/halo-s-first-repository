@@ -1,2 +1,2 @@
 # halo-s-first-repository
-lean how to use repository
+The project for DingTai
